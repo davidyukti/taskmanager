@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/journal.ico</file>
+        <file>images/printer.png</file>
+        <file>images/download.png</file>
+        <file>images/edit.png</file>
+        <file>images/save.png</file>
+        <file>images/add.png</file>
+        <file>images/del.png</file>
+        <file>images/show_password.png</file>
+        <file>images/hide_password.png</file>
+        <file>images/flag.png</file>
+        <file>images/journal.png</file>
+        <file>images/add_operator.png</file>
+        <file>images/logo.png</file>
+        <file>images/star.png</file>
+        <file>style/style.css</file>
+    </qresource>
+</RCC>

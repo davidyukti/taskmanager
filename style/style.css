@@ -1,0 +1,82 @@
+QDialog{
+	background-color:#fff;
+}
+
+QPushButton#btn_report{
+  background-color:#d5eddc;
+  border:none;
+  color:black;
+  padding: 2px 2px;
+  font-size: 12px;
+  font-family: inherit;
+  text-align: left;
+}
+
+QPushButton#btn_report:hover{
+  text-decoration:underline;
+}
+
+QPushButton#btn_addUser{
+  background-color:#d5eddc;
+  border:none;
+  color:black;
+  padding: 3px 3px;
+  font-size: 12px;
+  font-family: inherit;
+}
+
+QPushButton{
+  border-width: : 1px;
+  border-radius: 5px;
+  background: #2da44e;
+  border-color: #2da44e;
+  color: #fff;
+  padding: 3px 10px;
+  font-size: 13px;
+  font-family: inherit;
+}
+
+QPushButton:pressed {
+    background-color:#2da44e;
+    border-style: inset;
+}
+
+QPushButton:hover{
+        background-color:#2c974b;
+}
+
+/*QPushButton:pressed{
+        background-color:#2c974b;
+        border-color: #327746;
+*/
+
+QLineEdit{
+    background-color: #fff;
+    border-width: 1px;
+    border-color: #bababa;
+    padding: 3px 1px;
+    font-size: 13px;
+    font-family: inherit;
+}
+
+ QTableView{
+   border-style: hidden;
+   background-color: #fff;
+   alternate-background-color:#d5eddc;
+}
+
+QHeaderView {
+    font-size: 13px;
+}
+
+QFrame#frame,#frame_2,#frame_3{
+    background-color:#d5eddc;
+}
+
+
+
+
+
+
+
+
